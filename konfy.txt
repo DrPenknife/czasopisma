@@ -1,0 +1,1642 @@
+Wykaz recenzowanych materiałów z konferencji międzynarodowych	
+	
+Tytuł konferencji	Liczba punktów
+3-D Digital Imaging and Modelling	20
+A Satellite workshop on Formal Approaches to Testing of Software	20
+Accounting and Finance Association of Australia and New Zealand Conference	20
+ACIS Conference on Software Engineering Research, Management and Applications	20
+ACM Annual Computer Science Conference	20
+ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication	200
+ACM Conference on Computer and Communications Security	200
+ACM Conference on Computer Supported Cooperative Work	140
+ACM Conference on Economics and Computation	200
+ACM Conference on Embedded Networked Sensor Systems	200
+ACM Conference on Embedded Software	140
+ACM Conference on Hypertext and Hypermedia	140
+ACM Conference on Object Oriented Programming Systems Languages and Applications	200
+ACM Digital Rights Management Workshop	20
+ACM Information Technology Education	20
+ACM International Conference on Advances in Geographic Information Systems	140
+ACM International Conference on Advances in Computer Entertainment (merged with DIMEA, Digital Interactive Media in Entertainment and Arts, in 2009)	70
+ACM International Conference on Emerging Networking Experiments and Technologies	140
+ACM International Conference on Information and Knowledge Management	140
+ACM International Conference on Knowledge Discovery and Data Mining	200
+ACM International Conference on Mobile Computing and Networking	200
+ACM International Conference on Recommender Systems	70
+ACM International Conference on Research and Development in Information Retrieval	200
+ACM International Conference on Supercomputing	140
+ACM International Conference on Web Search and Data Mining	200
+ACM International Symposium on Computer Architecture	200
+ACM International Symposium on High Performance Distributed Computing	140
+ACM International Wireless Communications and Mobile Computing Conference	70
+ACM International Workshop On Multimedia Databases	20
+ACM Multimedia	200
+ACM SIG International Conference on Computer Graphics and Interactive Techniques	200
+ACM SIG on Computer and Communications Metrics and Performance	200
+ACM SIGCHI_NZ Conference on Human-Computer Interaction	20
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation	70
+ACM SIGIR Workshop on XML and Information Retrieval	20
+ACM on International Conference on Multimedia Retrieval (previously MIR)	70
+ACM SIGMOBILE International Conference on Mobile Systems, Applications and Services	70
+ACM SIGMOD-SIGACT-SIGART Conference on Principles of Database Systems	200
+ACM SIGOPS Symposium on Operating Systems Principles	200
+ACM SIGPLAN Conference on Languages, Tools, and Compilers for Embedded Systems	140
+ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation	70
+ACM SIGPLAN Workshop on Types in Language Design and Implementation (was TIC)	20
+European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (duplicate was listed as ESEC, removed from DB)	200
+ACM SIGSOFT Workshop on Program Analysis for Software Tools and Engineering	70
+ACM SIGUCCS Conference on User Services	20
+ACM Special Interest Group on Computer Science Education Conference	140
+ACM Special Interest Group on Management of Data Conference	200
+ACM Special Interest Group on Supporting Group Work (was SIGGRoup)	70
+ACM Symposium of Mobile and Ad Hoc Computing	140
+ACM Symposium on Applied Computing	70
+ACM Symposium on Computational Geometry	140
+ACM Symposium on Information, Computer and Communications Security	70
+ACM Symposium on Principles of Database Systems	20
+ACM Symposium on Principles of Distributed Computing	200
+ACM Symposium on Solid and Physical Modelling	70
+ACM Symposium on Theory of Computing	200
+ACM Symposium on User Interface Software and Technology	140
+ACM Virtual Reality Software and Technology	140
+ACM Workshop on Formal Methods in Security Engineering: From Specifications to Code	20
+ACM Workshop on Hot Topics in Networks	140
+ACM Workshop on Hot Topics in Software Upgrades	20
+ACM Workshop on Scalable Trusted Computing	70
+ACM Workshop on Secure Web Services	20
+ACM Workshop on Web Information and Data Management	70
+ACM/IEEE International Conference on Distributed Smart Cameras	70
+ACM/IEEE International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems	140
+ACM/IEEE Supercomputing Conference	140
+ACM/IEEE/SCS Workshop on Parallel and Distributed Simulation	70
+ACM/IFIP/USENIX International Middleware Conference	140
+ACM/SIAM Symposium on Discrete Algorithms	200
+ACM/SPIE Multimedia Computing and Networking	140
+ACM-SIGACT Symposium on Principles of Programming Languages	200
+ACM-SIGMIS CPR Conference	70
+ACM-SIGPLAN Conference on Programming Language Design and Implementation	200
+ACM-SIGRAPH Interactive 3D Graphics	70
+ACS/IEEE International Conference on Computer Systems and Applications	20
+Active and Real-Time Database Systems	20
+Advanced Concepts for Intelligent Vision Systems	70
+Advanced Course on Artificial Intelligence	20
+Advanced Research in VLSI	20
+IEEE International Conference on Advanced Video and Signal Based Surveillance	70
+Advanced Visual Interfaces	70
+Advances in Cryptology	200
+Advances in Information Systems	20
+Advances in Intelligent Systems	20
+Advances in Modal Logic	140
+Advances in Neural Information Processing Systems	200
+Advances in the Theory of Computing	20
+Algebraic Methodology and Software Technology	20
+Algorithmic Learning Theory	70
+Algorithms and Complexity in Durham	20
+Algorithms and Data Structures Symposium (was Workshop on Algorithms and Data Structures)	70
+Ambient Intelligence Developments	20
+American Federation of Information Processing Societies	140
+Americas Conference on Information Systems	140
+Annual Computer Security Applications Conference	140
+Annual Conference of the Australasian Society for Computers in Learning in Tertiary Education	20
+Annual Conference of the Cognitive Science Society	140
+Annual Conference of the International Academy for Information Management	20
+Annual Conference on Computational Learning Theory	200
+Annual Conference on Evolutionary Programming	20
+Annual Conference on Innovation and Technology in Computer Science Education	140
+Annual Conference on Privacy, Security and Trust	20
+Annual Convention for Survey, Mapping and Remote Sensing	20
+Annual Fall Workshop on Computational Geometry	20
+Annual International Conference on Ada	20
+Annual International Workshop on Presence	70
+Annual Meeting of the Decision Sciences Institute	20
+Annual PKI R&D Workshop	20
+Annual PPIG Workshop	70
+Annual Simulation Symposium	70
+Selected Areas in Cryptography	70
+AoM Organizational Communication and Information Systems	140
+Apple University Consortium Academic and Developers Conference	20
+Application of Computers and Operations Research in the Minerals Industries	140
+Application of Concurrency to System Design	70
+Applications of Information Visualization	20
+Applications of Natural Language to Data Bases	20
+Applied Computing Conference	20
+Applied Perception in Graphics and Visualization	20
+Architectural Support for Programming Languages and Operating Systems	200
+Argentine Symposium on Artificial Intelligence	20
+Artificial Intelligence in Knowledge Management	20
+Artificial Intelligence in Medicine	140
+Artificial Intelligence in Medicine in Europe	70
+Artificial Neural Networks in Engineering Conference	70
+Asia Information Retrieval Symposium	20
+Asia International Conference on Modelling and Simulation	20
+Asia Pacific Conference on Communications	70
+Asia Pacific Conference on Hardware Description Languages (was Asia Pacific CHipDesign Languages)	20
+Asia Pacific Decision Science Institute Conference	20
+Asia Pacific Design Automation Conference	20
+Asia Pacific Research Symposium on Accounting Information Systems	20
+Asia Pacific Web Conference	70
+Asian Computing Science Conference	70
+Asian Conference on Computer Vision	70
+Asian International Mobile Computing Conference	20
+Asian Symposium on Computer Mathematics	20
+ASIAN Symposium on Programming Languages and Systems	70
+Asia-Pacific Bioinformatics Conference	70
+Asia-Pacific Computer Human Interaction Conference	20
+Asia-Pacific Conference on Complex Systems	20
+Asia-Pacific Conference on Conceptual Modelling	70
+Asia-Pacific Conference on Simulated Evolution and Learning	70
+Asia-Pacific Forum on Engineering and Technology Education	20
+Asia-Pacific Network Operations and Management Symposium	20
+Asia-Pacific Services Computing Conference	20
+Asia-Pacific Software Engineering Conference	70
+Asilomar Conference on Signals, Systems and Computing	20
+Aspect-Orientation Asia	20
+Aspect-Oriented Software Development	140
+Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) annual conference	70
+Association of Computational Linguistics	200
+Australasia Conference on Information Security and Privacy	20
+Australasian Cognitive Science Society Conference	20
+Australasian Compumod Users' Conference	20
+Australasian Computer Architecture Conference	20
+Australasian Computer Music Conference	20
+Australasian Computer Science Conference	20
+Australasian Computer Systems Architecture Conference (now Asia-Pacific Computer Systems Architecture Conference)	20
+Australasian Computers in Education Conference	20
+Australasian Conference on Combinatorial Mathematics and Combinatorial Computing	20
+Australasian Computing Education Conference (ACE)	20
+Australasian Conference on Information Security and Privacy	20
+Australasian Conference on Information Systems	20
+Australasian Conference on Parallel and Real-Time Systems	20
+Australasian Conference on Pattern Languages of Programs	20
+Australasian Conference on Robotics and Automation	20
+Australasian Database Conference	20
+Australasian Information Security Conference	20
+Australasian Information Security Workshop 2007 (Privacy Enhancing Technologies)	20
+Australasian Joint Conference on Artificial Intelligence	20
+Australasian Refinement Workshop	20
+Australasian Speech Science and Technology	20
+Australasian Symposium on Grid Computing and e-Research (now AusPDC)	20
+Australasian Symposium on Parallel and Distributed Computing (was AusGrid)	20
+Australasian Urban and Regional Information Systems Association Conference	20
+Australasian User Interface Conference	20
+Australasian Women in Computing Workshop	20
+Australasian Workshop on Combinatorial Algorithms	20
+Australasian Workshop on Health Data and Knowledge Management	20
+Australia-Japan Joint Workshop on Intelligent and Evolutionary Systems	20
+Australian and New Zealand Academy of Management Conference	20
+Australian and New Zealand Intelligent Information Systems Conference	20
+Australian and New Zealand Marketing Academy Conference	20
+Australian Computer Human Interaction Conference	20
+Australian Conference for Knowledge Management and Intelligent Decision Support	20
+Australian Conference on Artificial Life	20
+Australian Conference on Neural Networks	20
+Australian Conference on Software Metrics	20
+Australian Data Mining Conference	20
+Australian Digital Forensics Conference	20
+Australian Game Developers Conference	20
+Australian Information Security Management Conference	20
+Australian Information Warfare and Security Conference	20
+Australian Institute of Computer Ethics Conference	20
+Australian Knowledge Acquisition Workshop	20
+Australian MADYMO Users Meeting	20
+Australian MATLAB Conference	20
+Australian Software Engineering Conference	20
+Australian Supercomputing Conference	20
+Australian Symposium on Information Visualisation	20
+Australian Telecommunication Networks and Applications Conference	20
+Australian UNIX Users Group National Conference	20
+Australian Women in IT Conference	20
+Australian Workshop on Mobile Computing, Databases and Applications	20
+Australian Workshop on Requirements Engineering	20
+Australian Workshop on Safety Critical Systems and Software	20
+Australian Workshop on Software Architecture	20
+Australian World Wide Web Conference	20
+Automated Software Engineering Conference	140
+Automation of Software Test	20
+Bioinformatics Visualization	20
+Body Sensor Networks	20
+British Computer Society Conference on Human-Computer Interaction	20
+CGAL User Workshop	20
+Challenges of Large Applications in Distributed Environments	20
+Collaborative Electronic Commerce Technology and Research	70
+Colloquium on Mathematics and Computer Science: Algorithms, Trees, Combinatorics and Probabilities	20
+Cologne-Twente Workshop on Graphs and Combinatorial Optimization	20
+Combinatorial Pattern Matching	70
+Committee on Data for Science and Technology	20
+Complex Objects Visualization Workshop	20
+Complexity and information-theoretic approaches to biology	70
+Computability in Europe: Logic and Theory of Algorithms	20
+Computational Intelligence in Security for Information Systems	70
+Computational Techniques and Applications Conference	20
+Computational Topology Workshop	20
+Computer Aided Verification	200
+Computer Animation, Information Visualisation, and Digital Effects	20
+Computer Graphics International	70
+Computer Science Research Conference	20
+Computer Supported Collaborative Learning	140
+Computing in Education Group of Victoria Conference	20
+Computing: The Australasian Theory Symposium	20
+Conference for the International Simulation and Gaming Association	20
+Conference in Uncertainty in Artificial Intelligence	200
+Conference of the Association for Machine Translation in the Americas	70
+Conference of the Association of Asian-Pacific Operational Research Societies	20
+Conference of the Commission Internationale pour l'Etude et l'Amelioration de l'Enseignement des Mathematiques	20
+Conference of the European Association for Machine Translation	70
+Conference of the International Society for Decision Support Systems	20
+Conference of the Pacific Association for Computational Linguistics	70
+Conference on Agile Software Development	70
+Conference on Algorithmic Aspects in Information and Management	20
+Conference on Algorithms and Hardware for Parallel Processing	20
+Conference on Analysis of Algorithms	70
+Conference on Artificial Intelligence for Applications	70
+Conference on Artificial Neural Networks and Expert systems	20
+Conference on Combinatorial Optimization and Applications	70
+Conference on Computers, Freedom, and Privacy	20
+Conference on Discrete Mathematics, Algebra and their Application	20
+Conference on Fun with Algorithms	70
+Conference on Graph Theory and Discrete Geometry	20
+Conference on Information Science, Technology and Management	70
+Conference on Information Sciences and Systems	20
+Conference on Innovative Data Systems Research	140
+Conference on Integer Programming and Combinatorial Optimization	140
+Conference on Natural Language Learning	140
+Conference on Office Information Systems	20
+International Conference on Operations Research	20
+Conference on Orders, Algorithms and Applications	20
+Conference on RFID Security	20
+Conference on Security and Cryptography for Networks	70
+Conference on Security in Network Architectures and Information Systems	20
+Conference on Software Engineering Education and Training (previously Conference is Software Engineering Education, CSEE, changed in 1997)	20
+Conference on Software in Telecommunications and Computer Networks	70
+Conference on the Quality of Software Architectures	70
+Conference on Theory and Applications of Models of Computation	70
+Conference on Visualization and Data Analysis	20
+Constraint Databases and Applications	20
+Constraint Programming Day	20
+Cooperative Design, Visualization, and Engineering	20
+Coordinated and Multiple Views in Exploratory Visualization	20
+Cryptography Policy and Algorithms Conference	20
+Cultural Attitudes towards Technology and Communications	70
+Cultural Heritage Knowledge Visualisation	20
+Current Trends in Theory and Practice of Computer Science	70
+Data Compression Conference	200
+Data Semantics in Web Information Systems	20
+Data Warehousing and Knowledge Discovery	70
+Databases and Programming Language	70
+Design and Aesthetics in Visualisation	20
+Design and Management of Data Warehouses	20
+Design for User Experience	70
+Design, Automation and Test in Europe Conference	70
+Designing Interactive Systems	70
+Developments in Language Theory	70
+Digital Arts and Culture	20
+Digital Games Research Conference	20
+Digital Image Computing Techniques and Applications	20
+DIMACS Workshop on Intrinsic Complexity of Computation	20
+Discourse Anaphora and Anaphor Resolution Colloquium	20
+Discrete and Algorithmic Geometry	20
+Discrete Models: Combinatorics, Computation and Geometry	20
+Distributed Communities on the Web Workshop	20
+Domain - Specific Languages for Software Engineering	20
+Domain Specific Aspect Languages	20
+Dutch Computational Geometry Day	20
+Dynamic Graph Workshop	20
+Dynamic Languages Symposium	70
+ECRYPT Workshop on Cryptographic Hash Functions	20
+ECRYPT Workshop on Tools for Cryptanalysis	20
+Educational Data Mining	70
+Embedded Sensor Networks Workshop	20
+Empirical Methods in Natural Language Processing	140
+Enabling Grids for E-Science European Conference	20
+ENVI and IDL Data Analysis and Visualization Symposium	20
+ERATO Conference on Quantum Information Science	20
+ERCIM Annual Workshop on Constraint Solving and Constraint Logic Programming	70
+Ershov Conference	70
+ETHICOMP Conference	70
+Euro Virtual Reality	20
+EuroConference on Combinatorics, Graph Theory and Applications	20
+Eurographics Symposium on Parallel Graphics and Visualization	70
+Eurographics Symposium on Virtual Environments	70
+Eurographics/IEEE Symposium on Visualization	70
+Euromicro Conference on Real-Time Systems	140
+Euromicro Conference on Software Engineering and Advanced Applications	70
+Euromicro International Conference on Parallel, Distributed and Network Based Processing	20
+European Association of Computational Linguistics	140
+European Chapter on Combinatorial Optimization	20
+European Computing Conference	20
+European Conference of Information Warfare	20
+European Conference on Ambient Intelligence	20
+European Conference on Artificial Intelligence	140
+European Conference on Artificial Life	70
+European Conference on Computational Biology	70
+European Conference on Computational Learning Theory (Now in COLT)	20
+European Conference on Computer Supported Cooperative Work	70
+European Conference on Computer Vision	140
+European Conference on e-Government	20
+European Conference on Genetic Programming	70
+European Conference on Information Management and Evaluation	20
+European Conference on Information Retrieval	140
+European Conference on Information Systems	140
+European Conference on Knowledge Management	70
+European Conference on Object-Oriented Programming	140
+European Conference on Operations Research	20
+European Conference on Pattern Languages of Programs	70
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Database (PKDD and ECML combined from 2008)	140
+European Conference on Research Methodology for Business and Management Studies	20
+European Conference on Software Maintenance and Reengineering	20
+European Conference on Speech Communication and Technology (now Interspeech)	140
+European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty	20
+European Conference on Universal Multiservice Networks	20
+International Conference on Embedded Wireless Systems and Networks (wasEuropean Conference on Wireless Sensor Networks)	140
+European Congress on Intelligent Techniques and Soft Computing	20
+European Graphics Conference	140
+European Institute for Computer Anti-Virus Research EICAR Conference	20
+European Lisp Workshop	20
+European Natural Language Generation Workshop	70
+European PKI Workshop: Theory and Practice	70
+European PVM/MPI Users' Group Conference	20
+European Signal Processing Conference	70
+European Simulation MultiConference	70
+European Simulation Symposium	70
+European SPI	70
+European Symposium on Algorithms	140
+European Symposium on Artificial Neural Networks	70
+European Symposium on Gender and ICT	20
+European Symposium on Programming	140
+European Symposium On Research In Computer Security	140
+European Workshop on Advanced Mobile Robots	20
+European Workshop on Computational Geometry	20
+European Workshop on Modelling Autonomous Agents in a Multi-Agent World	20
+European Workshop on Multi-Agent Systems	20
+European Workshop on Security and Privacy in Ad -Hoc and Sensor Networks	20
+European, Mediterranean and Middle Eastern Conference on Information Systems	70
+European-Japanese Conference on Information Modelling and Knowledge Bases	20
+Eurosys Conference	140
+Exploring Modelling Methods in Systems Analysis and Design	20
+Extending Database Technology	140
+Extreme Markup Languages	20
+Financial Cryptography and Data Security Conference	70
+Finite Differences-Finite Elements-Finite Volumes-Boundary Elements	20
+FIRA Robot World Congress	20
+Flexible Query-Answering Systems	20
+Formal and Computational Cryptography	20
+Formal Methods Europe	140
+Formal Methods in Software Engineering and Defence Systems Workshop	20
+Formal Methods Pacific	20
+Formal Power Series and Algebraic Combinatorics	70
+Forum on Specification, Verification and Design Languages	20
+Foundations of Aspect-Oriented Languages	20
+Foundations of Genetic Algorithms	200
+Foundations of Software Science and Computational Structures	140
+Foundations of Software Technology and Theoretical Computer Science	70
+Functional and Declarative Programming in Education	20
+Fundamental Approaches to Software Engineering	70
+Game Developers Conference	20
+Genetic and Evolutionary Computations	140
+Geometry Festival: An international workshop on Discrete Geometry and Rigidity	20
+Geometry Modeling and Processing	70
+GeoVisualization and Information Visualization	20
+GI International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment	20
+GIS Planet Conference	20
+Global Chinese Conference on Computers in Education	20
+Global Information Technology Management Association World Conference	70
+Grace Hopper Celebration of Women in Computing	20
+Graph Drawing	140
+Graphics Interface	70
+Haskell Workshop	20
+Hawaii International Conference on System Sciences	140
+Health Informatics Conference	20
+Heterogeneity in Computing Workshop	70
+High-Performance Grid Computing Workshop (part of IPDPS Conference)	20
+Human System Interaction	20
+IAVoSS Workshop On Trustworthy Elections	20
+IberoAmerican Congress on Pattern Recognition	20
+IEEE Automatic Speech Recognition and Understanding Workshop	20
+IEEE Bioinformatics and Bioengineering	20
+IEEE Computational Systems Bioinformatics Conference	140
+IEEE Computer Communications Workshop	70
+IEEE Computer Security Foundations Symposium (was CSFW)	140
+IEEE Conference on Computational Complexity	140
+IEEE Conference on Computer Vision and Pattern Recognition	200
+IEEE Conference on Decision and Control	140
+IEEE Conference on Local Computer Networks	140
+IEEE Conference on Mass Storage Systems and Technologies	20
+IEEE Conference on Sensor, Mesh and Ad Hoc Communications and Networks	70
+IEEE Conference on Systems, Man and Cybernetics	70
+IEEE Congress on Services	70
+IEEE Consumer Communications and Networking Conference	70
+IEEE European Conference on Web Services	20
+IEEE Global Internet Symposium	20
+IEEE Information Theory Workshop on Detection, Estimation, Classification and Imaging	20
+IEEE Information Visualization Conference	200
+IEEE International Augmented Reality Toolkit Workshop	20
+IEEE International Conference and Workshop on the Engineering of Computer Based Systems	70
+IEEE International Conference on Adaptive and Intelligent Systems	20
+IEEE International Conference on Advanced Learning Technologies	70
+IEEE International Conference on Automatic Face and Gesture Recognition	20
+IEEE International Conference on Autonomic Computing	70
+IEEE International Conference on Cloud Computing	70
+IEEE International Conference on Cluster Computing	140
+IEEE International Conference on Cognitive Informatics	20
+IEEE International Conference on Communications	70
+IEEE International Conference on Computational Cybernetics	20
+IEEE International Conference on Computational Intelligence for Measurement Systems and Applications	20
+IEEE International Conference on Computer and Information Technology	20
+IEEE International Conference on Computer Vision	200
+IEEE International Conference on Control Applications	70
+IEEE International Conference on COTS-Based Software Systems	20
+IEEE International Conference on Cybernetics and Intelligent Systems	20
+IEEE International Conference on Data Mining	200
+IEEE International Conference on Digital EcoSystems and Technologies Conference	20
+IEEE International Conference on Distributed Computing in Sensor Systems	70
+IEEE International Conference on e-Business Engineering	70
+IEEE International Conference on Engineering of Complex Computer Systems	140
+IEEE International Conference on Enterprise Computing, E-Commerce and E-Services	20
+IEEE International Conference on e-Science and Grid Computing	140
+IEEE International Conference on Fuzzy Systems	140
+IEEE International Conference on Global Software Engineering	20
+IEEE International Conference on Granular Computing	20
+IEEE International Conference on High Performance Computing and Communications	70
+IEEE International Conference on High Performance Computing and Simulation	70
+IEEE International Conference on Image Processing	70
+IEEE International Conference on Information and Automation	20
+IEEE International Conference on Information Integration and Reuse	20
+IEEE International Conference on Intelligence and Security Informatics	20
+IEEE International Conference on Intelligence for Homeland Security and Personal Safety	20
+IEEE International Conference on Intelligent Computer Communication and Processing	20
+IEEE International Conference on Intelligent Systems	20
+IEEE International Conference on Mobile Ad-hoc and Sensor Systems	70
+IEEE International Conference on Multimedia and Expo	70
+IEEE International Conference on Networks	70
+IEEE International Conference on Neural Networks	70
+IEEE International Conference on Parallel Processing Workshops	20
+IEEE International Conference on Peer to Peer Computing	20
+IEEE International Conference on Pervasive Computing and Communications	200
+IEEE International Conference on Radio Frequency Identification	70
+IEEE International Conference on Service-Oriented Computing Applications	20
+IEEE International Conference on Services Computing	140
+IEEE International Conference on Software Maintenance and Evolution (prior to 2014 was ICSM, IEEE International Conference on Software Maintenance)	140
+IEEE International Conference on Web Services	140
+IEEE International Conference on Wireless and Mobile Computing, Networking and Communications	70
+IEEE International Conference on Wireless Information Technology and Systems	70
+IEEE International Enterprise Distributed Object Computing Conference	70
+IEEE International Geoscience and Remote Sensing Symposium	20
+IEEE International Joint Conference on Neural Networks	140
+IEEE International Multioptic Conference	20
+IEEE International On-Line Testing Symposium	20
+IEEE International Parallel and Distributed Processing Symposium (was IPPS and SPDP)	140
+IEEE International Performance Computing and Communications Conference	70
+IEEE International Requirements Engineering Conference	140
+IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks	140
+IEEE International Symposium on Adaptive Dynamic Programming and Reinforcement Learning	20
+IEEE International Symposium on Artificial Life	140
+IEEE International Symposium on Cluster, Cloud and Grid Computing	140
+International Symposium on Distributed Simulation and Real Time Applications	70
+IEEE International Symposium on High Assurance Systems Engineering	70
+IEEE International Symposium on Information Theory	70
+IEEE International Symposium on Intelligent Control	70
+IEEE International Symposium on Multimedia	20
+IEEE International Symposium on Network Computing and Applications	140
+IEEE International Symposium on Object-Oriented Real-Time Distributed Computing	20
+IEEE International Symposium on Parallel and Distributed Processing with Applications	70
+IEEE International Symposium on Performance Analysis of Systems and Software	70
+IEEE International Symposium on Personal and Indoor Mobile Radio Conference	70
+IEEE International Symposium on Security in Networks and Distributed Systems	20
+IEEE International Symposium on Wearable Computing	200
+IEEE International Symposium on Web Systems Evolution	20
+IEEE International Test Conference	70
+IEEE International Working Conference on Mining Software Repositories	140
+IEEE International Workshop on Cellular Nanoscale Networks and Applications	20
+IEEE International Workshop on Databases for Next-Generation Researchers	20
+IEEE International Workshop on Future Trends of Distributed Computing Systems	20
+IEEE International Workshop on Neural Networks for Signal Processing	20
+IEEE International Workshop on Object-Oriented Real-Time Dependable Systems	70
+IEEE International Workshop on Quality of Service	70
+IEEE International Workshop on Source Code Analysis and Manipulation	20
+IEEE International Working Conference on Software Visualisation	70
+IEEE Network Operations and Management Symposium	70
+IEEE Pacific Visualization Symposium (was APVIS)	70
+IEEE Real-Time and Embedded Technology and Applications Symposium	140
+IEEE Software Engineering Workshop	20
+IEEE Swarm Intelligence Symposium	20
+IEEE Symposium on 3D User Interfaces	70
+IEEE Symposium on Advanced Management of Information for Globalized Enterprises	20
+IEEE Symposium on Computational Intelligence and Data Mining	20
+IEEE Symposium on Computational Intelligence and Games	20
+IEEE Symposium on Computational Intelligence for Financial Engineering	20
+IEEE Symposium on Computational intelligence for Image Processing	20
+IEEE Symposium on Computational intelligence for Multimedia Signal and Vision Processing	20
+IEEE Symposium on Computational Intelligence for Security and Defence Applications	20
+IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology	20
+IEEE Symposium on Computational Intelligence in Control and Automation	20
+IEEE Symposium on Computational Intelligence in Cyber Security	20
+IEEE Symposium on Computational Intelligence in Image and Signal Processing	20
+IEEE Symposium on Computational Intelligence in Multi-Criteria Decision-Making	20
+IEEE Symposium on Computational Intelligence in Scheduling	20
+IEEE Symposium on Computer Arithmetic	20
+IEEE Symposium on Computers and Communications	70
+IEEE Symposium on Foundations of Computer Science	200
+IEEE Symposium on High-Performance Interconnects	70
+IEEE Symposium on Intelligent Agents	20
+IEEE Symposium on Logic in Computer Science	200
+IEEE Symposium on Rapid Prototyping	20
+IEEE Symposium on Security and Privacy	200
+IEEE Symposium on Visual Analytics Science and Technology	20
+IEEE Symposium on Visual Languages and Human-Centric Computing (was VL)	70
+IEEE Systems and Information Engineering Design Symposium	20
+IEEE Tencon (IEEE Region 10 Conference)	20
+IEEE Vehicular Technology Conference	70
+IEEE Virtual Reality Conference	140
+IEEE Visualization	140
+IEEE Wireless Communications and Networking Conference	70
+IEEE Working Conference on Reverse Engineering	70
+IEEE Workshop on Advances in Techniques for Analysis of Remotely Sensed Data	20
+IEEE Workshop on Applications of Computer Vision	140
+IEEE Workshop on Computational Intelligence for Visual Intelligence	20
+IEEE Workshop on Computational Intelligence in Aerospace Applications	20
+IEEE Workshop on Computational Intelligence in Biometrics: Theory, Algorithms, and Applications	20
+IEEE Workshop on Computational Intelligence in Vehicles and Vehicular Systems	20
+IEEE Workshop on Computational Intelligence in Virtual Environments	20
+IEEE Workshop on Evolvable and Adaptive Hardware	20
+IEEE Workshop on Evolving and Self-Developing Intelligent Systems	20
+IEEE Workshop on High Performance Switching and Routing	20
+IEEE Workshop on Hot Topics in Web Systems and Technologies	70
+IEEE Workshop on Hybrid Intelligent Models and Applications	20
+IEEE Workshop on Memetic Algorithms	20
+IEEE Workshop on Organic Computing	20
+IEEE Workshop on Robotic Intelligence in Informationally Structured Space	20
+IEEE Workshop on Speech Coding	20
+IEEE/ACIS International Conference on Computer and Information Science	20
+IEEE/ACM International Conference on Computer-Aided Design	140
+IEEE/ACM International Conference on Grid Computing	140
+IEEE/ACM International Symposium on Mixed and Augmented Reality	200
+IEEE/IFIP International Conference on Dependable Systems	140
+IEEE/IFIP International Conference on Embedded and Ubiquitous Computing	20
+IEEE/IFIP International Conference on Information Technology for Balanced Automation Systems	70
+IEEE/IFIP International Symposium on Trusted Computing and Communications	140
+International Conference on Software Architecture (was previously WICSA)	20
+IEEE/RSJ International Conference on Intelligent Robots and Systems	140
+IEEE/WIC/ACM International Joint Conferences on Web Inteligence and Intelligent Agent Technology	70
+IFAC Conference on System Structure and Control	20
+IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes	20
+IFIP Conference on Biologically Inspired Collaborative Computing	20
+IFIP Congress (Information Processing)	20
+IFIP International Conference on Broadband Communications	20
+IFIP International Conference on Distributed Applications and Inoperable Systems	70
+IFIP International Conference on Open Distributed Processing	70
+IFIP International Conference on Theoretical Computer Science	20
+IFIP Information Security & Privacy Conference	70
+IFIP Joint International Conference on Formal Description Techniques and Protocol Specification, Testing, And Verification	70
+IFIP Networking 200X	140
+IFIP TC13 Conference on Human-Computer Interaction	140
+IFIP Working Conference on Visual Database Systems	70
+IFIP Working Conferences on Virtual Enterprises	20
+IFIP?International Conference on Network and Parallel Computing	20
+IFIP/ACM Working Conference on Component Deployment	70
+IFIP/IEEE International Symposium on Integrated Management (odd years sharing with NOMS)	140
+International Conference on Network and Service Management (amalgamation of DSOM and related workshops from 2010)	70
+IFSA World Congress	70
+IMA International Conference on Cryptography and Coding	70
+Image and Vision Computing Conference	70
+Inductive Logic Programming	70
+Industrial Simulation Conference	20
+Informatics Education Europe	20
+Information Integration and Web-based Applications and Services	20
+Information Processing in Sensor Networks	200
+Information Security Practice and Experience Conference	70
+Information Security Symposium	20
+Information Security Conference	70
+Information Systems Education Conference	70
+Information Theory Workshop	70
+Information Visualisation Theory and Practice	20
+Information Visualization Evaluation	20
+Information Visualization in Biomedical Informatics	20
+Informing Science and Information Technology Education	20
+Innovative Applications in AI	70
+International Conference on Innovations for Community Services (was Innovative Internet Computer Systems IICS until 2014)	20
+Institute for Small Business and Entrepreneurship Annual Conference	20
+Int. Workshop on Formal Methods for Industrial Critical Systems	20
+Int. Workshop on Multi-Media Data Base Management Systems	20
+Integrated Data Environments Australia Workshop	20
+Integrated Formal Methods	70
+Integration of Software Engineering and Agent Technology	70
+Intelligence Tools, Data Mining, Visualization	20
+Intelligent Data Analysis	140
+Intelligent Systems in Molecular Biology	140
+Intelligent Virtual Agents	70
+Interaction	20
+Interactive Entertainment	70
+International and Interdisciplinary Conference on Modelling and Using Context	20
+International Atlantic Web Intelligence Conference	20
+International Baltic Conference on Databases and Information Systems	70
+International Business Information Management	70
+International Cognitive Robotics Conference	70
+International Colloquium on Automata Languages and Programming	140
+International Colloquium on Data Sciences, Knowledge Discovery and Business Intelligence	20
+International Colloquium on Structural Information and Communication Complexity	70
+International Colloquium on Theoretical Aspects of Computing	70
+International Computer Science Conference	70
+International Computer Science Symposium in Russia	20
+International Computer Software and Applications Conference	70
+International Computing Education Research Workshop	70
+International Conference and Exhibition on High Performance Computing in the Asia-Pacific Region	70
+International Conference Computer Graphics, Imaging and Visualization	20
+International Conference Formal Concept Analysis Conference	20
+International Conference Imaging Science, Systems and Technology	20
+International Conference in Business Process Management	140
+International Conference of Society for Group Decision and Negotiation	70
+International Conference Abstract State Machines, Alloy, B, TLA, VDM, and Z (Previously International Conference of B and Z Users, ZB, changed in 2008)	20
+International Conference on 3G Mobile Communication Technologies	20
+International Conference on Adaptive and Natural Computing Algorithms	20
+International Conference on AD-HOC Networks and Wireless	70
+International Conference on Advanced Computing and Communications	70
+International Conference on Advanced Data Mining and Applications	70
+International Conference on Advanced Information Management	20
+International Conference on Advanced Information Networking and Applications (was ICOIN)	70
+International Conference on Advanced Information Systems Engineering	140
+International Conference on Advanced Language Processing and Web Information Technology	20
+International Conference on Advances in Computer-Human Interactions	20
+International Conference on Advances in Infrastructure for Electronic Business, Science, and Education on the Internet	20
+International Conference on Advances in Intelligent Systems: Theory and Applications	70
+International Conference on Advances in Mobile Computing and Multimedia	70
+International Conference on Advances in Pattern Recognition and Digital Techniques	20
+International Conference on Affective Computing and Intelligent	20
+International Conference on Agents and Artificial Intelligence	20
+International Conference on Algebraic and Logic Programming	70
+International Conference on Algorithms and Architectures for Parallel Processing	70
+International Conference on Algorithms and Complexity (was Italian Conference )	20
+International Conference on Applied Cryptography and Network Security	70
+International Conference on Apps for Specific Array Processors	140
+International Conference on Artificial Intelligence	20
+International Conference on Artificial Intelligence and Law	20
+International Conference on Artificial Intelligence and Pattern Recognition	20
+International Conference on Artificial Intelligence and Soft Computing	20
+International Conference on Artificial Intelligence and Statistics	140
+International Conference on Artificial Intelligence in Science and Technology	20
+International Conference on Artificial Neural Networks	70
+International Conference on Artificial Reality and Telexistence	70
+International Conference on Arts and Technology	20
+International Conference on Automated Deduction	140
+International Conference on Automated Planning and Scheduling	200
+International Conference on Autonomic and Trusted Computing	20
+International Joint Conference on Autonomous Agents and Multiagent Systems (previously the International Conference on Multiagent Systems, ICMAS, changed in 2000)	200
+International Conference on Availability, Reliability and Security	70
+International Conference on Broadband Communications, Networks and Systems	70
+International Conference on Business Information Systems	70
+International Conference on CAD/CAM, Robotics and Factories of the Future	20
+International Conference on Case-Based Reasoning	70
+International Conference on Chinese Computing	20
+IEEE International Conference on Cloud Computing Technology and Science (International Conference on Cloud Computing pre 2010)	20
+International Conference on Collaborative Computing: Networks, Applications and Worksharing	20
+International Conference on Communication System Software and Middleware	20
+International Conference on Communications in Computing	20
+International Conference on Compiler Construction	140
+International Conference on Compilers, Architecture, and Synthesis for Embedded Systems	140
+International Conference on Complex Systems	20
+International Conference on Complex, Intelligent and Software Intensive Systems	20
+International Conference on Computability and Complexity in Analysis	20
+International Conference on Computational Collective Intelligence: Semantic Web, Social Networks and Multiagent Systems	20
+International Conference on Computational Engineering Science	20
+International Conference on Computational Intelligence and Multimedia	20
+International Conference on Computational Intelligence and Security	20
+International Conference on Computational Intelligence for Modelling, Control and Automation	20
+International Conference on Computational Intelligence, Robotics and Autonomous Systems	20
+International Conference on Computational Linguistics	140
+International Conference on Computational Molecular Biology	70
+International Conference on Computational Science	140
+International Conference on Computational Science and Applications	20
+International Conference on Computational Semiotics for Games and New Media	20
+International Conference on Computer Analysis of Images and Patterns	70
+SIGGRAPH Asia	20
+Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (GRAPP and VISAPP combined from 2008)	70
+International Conference on Computer Graphics, Virtual Reality, Visualisation and Interaction in Africa	20
+International Conference on Computer Information Systems and Industrial Management Applications	40
+International Conference on Computer Safety, Reliability and Security	70
+International Conference on Computer Supported Cooperative Work in Design	70
+International Conference on Computer Theory and Applications	20
+International Conference on Computer Vision Systems	20
+International Conference on Computers and their Applications	20
+International Conference on Computers Helping People with Special Needs	20
+International Conference on Computers in Education	70
+International Conference on Computing and Combinatorics	140
+International Conference on Computing and Informatics	20
+International Conference on Conceptual Modelling	140
+International Conference on Conceptual Structures	70
+International Conference on Concurrency Theory	140
+International Conference on Control, Automation, Robotics and Vision	140
+International Conference on Convergence and Hybrid Information Technology	20
+International Conference on Cooperative Information Systems	140
+International Conference on Coordination Models and Languages	70
+International Conference on Creating Connecting and Collaborating through Computing	20
+International Conference on Cryptology and Network Security	70
+International Conference on Cryptology in India	70
+International Conference on Cybercrime Forensics Education and Training	20
+International Conference on Cyberworlds (was International Symposium on Cyberworlds)	70
+International Conference on Data Engineering	200
+International Conference on Database and Expert Systems Applications	70
+International Conference on Database Systems for Advanced Applications	70
+International Conference on Database Theory	140
+International Conference on Dependability of Computer Systems	40
+International Conference on Dependable, Autonomic and Secure Computing	20
+International Conference on Design Science Research in Information Systems and Technology	140
+International Conference on Digital Content, Multimedia Technology and its Applications	20
+International Conference on Digital Government Research	70
+International Conference on Digital Society	20
+International Conference on Discrete Geometry for Computer Imagery	20
+International Conference on Discrete Mathematics and Theoretical Computer Science	70
+International Conference on Distributed Computing and Internet Technologies	20
+International Conference on Distributed Computing and Networking	70
+International Conference on Distributed Computing Systems	140
+International Conference on Distributed Frameworks for Multimedia Applications	20
+International Conference on Dublin Core and Metadata Applications	20
+International Conference on e-Business	70
+International Conference on Electronic Commerce	20
+International Conference on Electronic Commerce and Web Technology	70
+International Conference on Electronic Voting	20
+International Conference on Email and Anti-Spam	70
+International Conference on Engineering Applications of Neural Networks	20
+International Conference on Engineering Education	20
+International Conference on Enterprise Information Systems	20
+International Conference on Enterprise Information Systems and Web Technologies	20
+International Conference on Enterprise Integration and Modelling Technology	20
+International Conference on Entertainment Computing	20
+International Conference on Evaluation and Assessment in Software Engineering	140
+International Conference on Evaluation of Novel Approaches to Software Engineering	70
+International Conference on Experimental Implementation of Quantum Computation	20
+International Conference on Agile Software Development (chnaged in 2010, was International Conference on extreme Programming and Flexible Processes in Software Engineering)	70
+International Conference on Field and Service Robotics	140
+International Conference on Formal Engineering Methods	70
+International Conference on Formal Methods for Open Object-Based Distributed Systems	20
+International Conference on Formal Ontology in Information Systems	140
+International Conference on Foundation on Data Organization	140
+International Conference on Frontiers of Handwriting Recognition	70
+International Conference on Frontiers of Information Technology	20
+International Conference on Functional Programming	200
+International Conference on Fuzzy Systems and Knowledge Discovery	20
+International Conference on Generative Programming and Component Engineering	70
+International Conference on Genetic Algorithms	70
+International Conference on GeoComputation	20
+International Conference on Graph Transformations	70
+International Conference on Grid and Cooperative Computing	20
+International Conference on Grid and Pervasive Computing	20
+International Conference on Grid Computing and Applications	20
+International Conference on Grid computing, high-performance and Distributed Applications	20
+International Conference on Health Informatics	20
+International Conference on High Performance Computing	70
+International Conference on High Performance Computing, Networking and Communication Systems	70
+International Conference on High Performance Scientific Computing	20
+International Conference on High-Performance Clustered Computing (International Conference on Linux Clusters)	20
+International Conference on Human Factors in Computing Systems	200
+International Conference on Human-Computer Interaction with Mobile Devices and Services	70
+International Conference on Hybrid Artificial Intelligence Systems	20
+International Conference on Hybrid Intelligent Systems	20
+International Conference on Image Analysis and Processing	70
+International Conference on Image and Graphics	20
+International Conference on Image and Signal Processing	20
+International Conference on Immersive Telecommunications	20
+International Conference on Implementation and Application of Automata	70
+International Conference on Industrial and Engineering Applications of Artificial Intelligence and Expert Systems	70
+International Conference on Informatics Education and Research	70
+International Conference on Information and Communication Technologies Development	20
+International Conference on Information and Communication Technologies in Tourism	20
+International Conference on Information and Communications Security	70
+International Conference on Information and Communications Technology	20
+International Conference on Information and Emerging Technologies	20
+International Conference on Information and Knowledge Engineering	20
+International Conference on Information Fusion	20
+International Conference on Information Processing and Management of Uncertainty	20
+International Conference on Information Resources Management	70
+International Conference on Information Security and Assurance	20
+International Conference on Information Security and Cryptography	70
+International Conference on Information Security and Cryptology	70
+International Conference on Information Systems	200
+International Conference on Information Systems Analysis and Synthesis	20
+International Conference on Information Systems Development	140
+International Conference on Information Systems Security	70
+International Conference on Information Systems Technology and its Application	70
+International Conference on Information Technology and Applications	20
+International Conference on Information Technology Interfaces	20
+International Conference on Information Technology: Coding and Computing	20
+International Conference on Information Theoretic Security	20
+International Conference on Information Visualisation	70
+International Conference on Information, Communications and Signal Processing	70
+International Conference on Integration of Artificial Intelligence and Operations Research Techniques in Constraint Programming for Combinatorial Optimization Problems	70
+International Conference on Intelligent Agents, Web Technologies, and Internet Commerce	70
+International Conference on Intelligent Data Engineering and Automated Learning	20
+International Conference on Intelligent Pervasive Computing	20
+International Conference on Intelligent Systems	20
+International Conference on Intelligent Systems and Knowledge Engineering	70
+International Conference on Intelligent Systems Designs and Applications	20
+International Conference on Intelligent Text Processing and Computational Linguistics	70
+International Conference on Intelligent Tutoring Systems	140
+International Conference on Intelligent User Interfaces	140
+International Conference on Interaction Sciences: Information Technology, Culture and Human	20
+International Conference on International and Communication Technologies	20
+International Conference on Internet and Web Applications and Services	20
+International Conference on Internet Computing	70
+International Conference on Internet Computing in Science and Engineering	20
+International Conference on Internet Monitoring and Protocol	20
+International Conference on Internet Technologies and Applications	70
+International Conference on Knowledge Discovery and Data Mining	20
+International Conference on Knowledge Engineering and Knowledge Management	70
+International Conference on Knowledge Engineering and Ontology Development	20
+International Conference on Knowledge Science, Engineering and Management	70
+International Conference on Knowledge-Based and Intelligent Information and Engineering Systems	70
+International Conference on Knowledge-based Intelligent Electronic Systems	20
+International Conference on Language and Automata Theory and Applications	20
+International Conference on Legal Knowledge-based Systems	20
+International Conference on Logic Programming	140
+International Conference on Logic Programming and Non-monotonic Reasoning	140
+International Conference on Machine Learning	200
+International Conference on Machine Learning and Applications	20
+International Conference on Machine Learning and Cybernetics	20
+International Conference on Machine Vision	20
+International Conference on Management of Data	70
+International Conference on Massively Parallel Computing Systems	70
+International Conference on Medical Information? Visualisation	20
+International Conference on Mobile and Ubiquitous Systems: Networks and Services	140
+International Conference on Mobile Business	20
+International Conference on Mobile Data Management	20
+International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies	20
+International Conference on Model Transformation	70
+International Conference on Modelling Decisions for Artificial Intelligence	70
+International Conference on Multimedia Modelling	20
+International Conference on Multimodal Interfaces	70
+International Conference on Natural Computation	20
+International Conference on network and System Security	70
+International Conference on Network Protocols	140
+International Conference on Networked Computing	20
+International Conference on Neural Information Processing	140
+International Conference on Neural, Parallel and Scientific Computations	20
+International Conference on New Trends of Information and Service Science	20
+International Conference on Next Generation Web Services Practices	20
+International Conference on Optimization: Techniques And Applications	20
+International Conference on Pairing-based Cryptography	20
+International Conference on Parallel and Distributed Computing, Applications and Technologies	70
+International Conference on Parallel and Distributed Processing Techniques and Applications	70
+International Conference on Parallel and Distributed Systems	70
+International Conference on Parallel Architecture and Compilation Techniques	140
+International Conference on Parallel Processing	140
+International Conference on Parallel Processing	140
+International Conference on Parallel Processing and Applied Mathematics	20
+International Conference on Pattern Recognition	70
+International Conference on Persuasive Technology	70
+International Conference on Pervasive Computing and Applications	20
+International Conference on Pervasive Services	20
+International Conference on Principles and Practice of Constraint Programming	140
+International Conference on Principles and Practice of Declarative Programming	70
+International Conference on Principles of Distributed Systems	70
+International Conference on Probability, Statistics and Operational Research	20
+IEEE International Conference on Program Comprehension (previously IWPC, changed in 2006)	20
+International Conference on Provable Security	70
+International Conference on Qualitative Research in IT & IT in Qualitative Research	70
+International Conference on Quality of Service in Heterogeneous Wired/Wireless Networks	70
+International Conference on Quality Software	70
+International Conference on Real-Time and Embedded Computing Systems and Applications	70
+International Conference on Recent Advances in Information Technology and Applications	20
+International Conference on Recent Advances in Natural Language Processing	20
+International Conference on Relational Methods in Computer Science	20
+International Conference on Relations, Orders and Graphs: Interaction with Computer Science	20
+International Conference on Reliable Software Technologies	70
+International Conference on Research Challenges in Information Science	70
+International Conference on Risks and Security of Internet and Systems	20
+International Conference on Robotics	20
+International Conference on Rough Sets and Current Trends in Computing	20
+RuleML: International Web Rule Symposium (pre 2007 was "International Conference on Rules and Rule Markup Languages for the Semantic Web")	70
+International Conference on Scientific and Statistical Data Base Management	140
+International Conference on Security and Privacy for Communication Networks	70
+International Conference on Security in Pervasive Computing	140
+International Conference on Security of Information and Networks	20
+International Conference on Semantic and Digital Media Technologies	20
+International Conference on Semantics Knowledge and Grid	20
+International Conference on Sequences and their Applications	70
+International Conference on Service Oriented Computing	140
+International Conference on Software and Data Technologies	70
+International Conference on Software Composition	70
+International Conference on Software Development	70
+International Conference on Software Engineering	200
+International Conference on Software Engineering Advances	20
+International Conference on Software Engineering and Formal Methods	70
+International Conference on Software Engineering and Knowledge Engineering	70
+International Conference on Software Engineering Theory and Practice	20
+International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing	20
+International Conference on Software Language Engineering	70
+International Conference on Intelligent Software Methodologies, Tools, and Techniques (was International Conference on Software Methods and Tools)	70
+International Conference of Software and Systems Process (was ICSP prior to 2011)	140
+Joint Conference of the International Workshop on Software Measurement and the International Conference on Software Process and Product Measurement (IWSM and Mensura combined from 2007)	20
+International Conference on Software Quality Management	20
+International Conference on Software Reuse	70
+International Conference on Software Testing, Verification and Validation	140
+International Conference on Systems Engineering	20
+International Conference on Systems Research, Informatics and Cybernetics	20
+International Conference on Systems Thinking in Management	20
+International Conference on Technology and Business Management	20
+International Conference on Temporal Logic	140
+International Conference on Tests and Proofs	70
+International Conference on the Application and Theory of Petri Nets	70
+International Conference on the Foundations of Digital Games	20
+International Conference on the Principles of Knowledge Representation and Reasoning	200
+International Conference on the Simulation and Synthesis of Living Systems	140
+International Conference on the Statistical Analysis of Textual Data	20
+International Conference on the Theory and Application of Cryptographic Techniques	200
+International Conference on the Theory and Application of Cryptology and Information Security	140
+International Conference on Model Driven Engineering Languages and Systems (Previously UML, changed in 2005)	140
+Conference on Interactive Theorem Proving (previously TPHOLs, changed in 2009)	140
+International Conference on Theorem Proving with Analytic Tableaux and Related Methods	140
+International Conference on Theoretical and Mathematical Foundations of Computer Science	20
+International Conference on Theoretical and Methodological Issues in machine Translation	70
+International Conference on Theory and Applications of Computational Science	20
+International Conference on Theory and Applications of Satisfiability Testing	140
+International Conference on Tools with Artificial Intelligence	70
+International Conference on Trust Management	20
+International Conference on Trust, Privacy and Security in Digital Business	70
+International Conference on Ubiquitous and Intelligence Computing	70
+International Conference on Unconventional Computation	20
+International Conference on User Modelling, Adaptation, and Personalization (was AH and UM)	70
+International Meeting on High Performance Computing for Computational Science (previously International Meeting Vector and Parallel Processing, changed in 2002)	70
+International Conference on Very Large Databases	200
+International Conference on Virtual Execution Environments	140
+International Conference on Virtual Systems and MultiMedia	70
+International Conference on Visual Information Systems	20
+International Conference on VLSI Design	20
+International Conference on Web Engineering	70
+International Conference on Web Information Systems and Technologies	20
+International Conference on Web Information Systems Engineering	140
+International Conference on Web-Age Information Management	20
+International Conference on Web-based Modelling and Simulation	20
+International Conference on Worldwide Computing and Its Applications	20
+International Conference Software and Systems Engineering and their Applications	20
+International Conference on Practice and Theory in Public Key Cryptography	70
+International Conferences in Central Europe on Computer Graphics, Visualization and Computer Vision	70
+International Congress of Chinese Mathematicians	20
+International Congress of Mathematicians	20
+International Congress on Computational and Applied Mathematics	20
+International Congress on Modelling and Simulation	20
+International CSI Computer Conference	20
+International Database Engineering and Applications Symposium	70
+International Forum on Applied Wearable Computing	20
+International French Speaking Conference on Logic and Constraint Programming	20
+International Frontiers of Algorithmics Workshop	70
+International Fuzzy Logic and Intelligent technologies in Nuclear Science Conference	70
+International ICSC Congress on Intelligent Systems and Applications	20
+International IEEE Security in Storage Workshop	20
+International IEEE Workshop on Software Evolvability	20
+International Conference on Information Technology in Regional Areas	20
+International Joint Conference CAAP/FASE on Theory and Practice of Software Development	20
+International Joint Conference on Artificial Intelligence	200
+International Joint Conference on Automated Reasoning	200
+International Joint Conference on e-Business and Telecommunications	20
+International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management	20
+International Joint Conference on Natural Language Processing	70
+International Joint Conference on Qualitative and Quantitative Practical Reasoning	140
+International KES Symposium on Agents and Multiagent systems - Technologies and Applications	20
+International Machine Vision and Image Processing Conference	20
+International Meeting on DNA Computing and Molecular Programming	70
+International Natural Language Generation Conference	70
+International Network Optimization Conference	20
+International Parallel Computing Workshop	20
+International Picture Coding Symposium	20
+International Python Conference	20
+International Semantic Web Conference	140
+ISC High Performance (was International Supercomputing Conference)	20
+International Symposium Component-Based Software Engineering	70
+International Symposium on 3D Data Processing Visualization and Transmission	20
+International Symposium on Advanced DB Technologies and Integration	70
+International Symposium on Algorithmic Game Theory	70
+International Symposium on Algorithms and Computation	140
+International Symposium on Applications and the Internet	20
+International Symposium on Applied Algebra, Algebraic Algorithms and Error-Correcting Codes	70
+International Symposium on Applied Computational Intelligence and Informatics	20
+International Symposium on Applied Machine Intelligence and Informatics	20
+International Symposium on Artificial Intelligence and Mathematics	70
+International Symposium on Artificial Life and Robotics	20
+International Symposium on Audio, Video, Image Processing and Intelligent Applications	20
+International Symposium on Automated Technology for Verification and Analysis	140
+International Symposium on Automation and Robotics in Construction	20
+International Symposium on Autonomous Decentralized Systems	20
+International Symposium on Circuits and Systems	20
+International Symposium on Code Generation and Optimization	140
+International Symposium on Collaborative Technologies and Systems	20
+International Symposium on Combinatorial Optimisation	20
+International Symposium on Computational Life Science	70
+International Symposium on Computer and Information Sciences	20
+International Symposium on Computer Architecture and High Performance Computing	70
+International Symposium on Computer Design	20
+International Symposium on Cooperative Database Systems for Advanced Applications	20
+International Symposium on Data, privacy and E-Commerce	20
+International Symposium on Distributed Computing (was WDAG)	140
+International Symposium on Empirical Software Engineering	70
+International Symposium on Empirical Software Engineering and Measurement	140
+International Symposium on Experimental Algorithms	70
+International Symposium on Foundations of Intelligent Systems	20
+International Symposium on Functional and Logic Programming	140
+International Symposium on Fundamentals of Computer Theory	140
+International Symposium on Future Software Technology	20
+International Symposium on Grid Computing	20
+International Symposium on High Performance Computer Architecture	200
+International Symposium on Information and Communication Technologies	20
+International Symposium on Information Assurance and Security	20
+International Symposium on Information Processing	20
+International Symposium on Information Theory and Its Applications	70
+International Symposium on Innovations in Intelligent Systems and Applications	20
+International Symposium on Intelligent and Interactive Multimedia: Systems and Services	20
+International Symposium on Intelligent Systems and Informatics	20
+International Symposium on Latin American Theoretical Informatics	70
+International Symposium on Leveraging Applications of Formal Methods, Verification and Validation	20
+International Symposium on Logic-based Program Synthesis and Transformation	70
+International Symposium on Mathematical Foundations of Computer Science	140
+International Symposium on Mathematical Morphology	70
+International Symposium on Memory Management	140
+International Symposium on Modelling and Optimization in Mobile, Ad Hoc, and Wireless Networks	70
+International Symposium on Neural Networks	20
+International Symposium on Next Generation Data Base Systems and Applications	20
+International Symposium on Object Technologies for Advanced Software	20
+International Symposium on Parallel and Distributed Computing	20
+International Symposium on Parallel Architectures, Algorithms and Networks	70
+International Symposium on Recent Advances in Intrusion Detection	140
+International Symposium on Robotics	140
+International Symposium on Robotics Research	140
+International Symposium on Software Reliability Engineering	140
+International Symposium on Software Testing and Analysis	140
+International Symposium on Spatial Data Handling	20
+International Symposium on Spatial Data Infrastructures	20
+International Symposium on Spatial Data Quality	20
+International Symposium on Spatial Databases	140
+International Symposium on String Processing and Information Retrieval	70
+International Symposium on Symbolic and Algebraic Computation	200
+International Symposium on Symbolic and Numeric Algorithms for Scientific Computing	20
+International Conference on Hardware/Software Codesign and System Synthesis (previously ISSN, changed in 2003)	20
+International Symposium on Technology and Society	20
+International Symposium on Temporal Representation and Reasoning	70
+International Symposium on the Mathematical Theory of Networks and Systems	20
+International Symposium on Theoretical Aspects of Computer Science	140
+International Symposium on Theoretical Aspects of Software Engineering	20
+International Symposium on Visual Computing	20
+International Symposium on Voronoi diagrams in Science and Engineering	20
+International Symposiums on Wikis	70
+International Visualization in Transportation Symposium and Workshop	20
+International Web Conference	20
+International Wordnet Conference (Global Wordnet Conference)	20
+International Work-Conference on Artificial and Natural Neural Networks	70
+International Workshop of Privacy Enhancing Technologies	70
+International Workshop of the Initiative for the Evaluation of XML Retrieval	20
+International Workshop on Abstract State Machines	20
+International Workshop on Advanced Architectures and Algorithms for Internet Delivery and Applications	20
+International Workshop on Agents and Data Mining Interaction	70
+International Symposium on Algorithms and Experiments for Wireless Networks	20
+International Workshop on Algorithms and Computation	20
+International Workshop on Aliasing, Confinement and Ownership	20
+International Workshop on Ant Colony	70
+International Workshop on Approximation Algorithms for Combinatorial Optimization Problems	140
+International Workshop on Boolean Functions: Cryptography and Applications	20
+International Workshop on Business Process Design	20
+International Workshop on Business Process Intelligence	20
+International Workshop on Business Process Modelling, Development, and Support	20
+International Workshop on C# and .NET Technologies	20
+International Workshop on Coding and Cryptography	70
+International Workshop on Combinations of Intelligent Methods and Applications	20
+International Workshop on Combinatorial Algorithm	70
+International Workshop on Combinatorial Image Analysis: Theory and Applications	20
+International Workshop on Comparative Evaluation in Requirements Engineering	20
+International Workshop on Computer-Aided Software Eng	70
+International Workshop on Critical Information Infrastructures Security	20
+International Workshop on Data Warehousing and OLAP	70
+International Workshop on Developments in Computational Models	20
+International Workshop on Digital Watermarking	20
+International Workshop on Distributed Object Management	20
+International Workshop on Domain Driven Data Mining	20
+International Workshop on Economics-Driven Software Engineering Research	20
+International Workshop on Efficient Algorithms	70
+International Workshop on Enterprise and Organizational Modelling and Simulation	20
+IEEE international conference on ehealth networking applications and services (was International Workshop on Enterprise Networking and Computing in Health Care Industry; changed 2006)	20
+International Workshop on Entertainment Computing	20
+International Workshop on Evolution and Change in Data Management	20
+International Workshop on Fast Software Encryption	70
+International Workshop on Formal Methods for interactive Systems	20
+International Workshop on Formal Methods for Parallel Programming: Theory and Applications	20
+International Workshop on Foundations of Models and Languages for Data and Objects	20
+International Workshop on Foundations of Object-Oriented Languages	20
+International Workshop on Functional and (Constraint) Logic Programming	20
+International Workshop on Genetic and Evolutionary Fuzzy Systems	20
+International Workshop on Global Optimization	20
+International Workshop on Graph-Theoretic Concepts in Computer Science	140
+International Workshop on Group-Oriented Cryptographic Protocols	20
+International workshop on High-Level Parallel Programming and Applications	20
+International Workshop on High-Level Parallel Programming Models and Supportive Environments	20
+ACM International Conference on Interactive Surfaces and Spaces (was International Workshop on Horizontal Interactive Human-Computer Systems: Tabletop)	140
+International Workshop on Hot topics in Peer-to-Peer Systems	20
+International Workshop on Human Aspects in Ambient Intelligence: Agent Technology, Human-Oriented Knowledge and Applications	20
+International Workshop on Image Analysis and Information Fusion	20
+International Workshop on Incorporating COTS Software into Software Systems, Tools and Techniques	20
+Information Hiding and Multimedia Security Workshop	20
+International Workshop on Information Security Applications	20
+International Workshop on Intelligent Agents	20
+International Workshop on Interactive Entertainment	20
+International Workshop on Issues in the Theory of Security	20
+International Workshop on Knowledge Discovery from Data Streams	20
+International Workshop on Logic and Complexity in Computer Science	20
+International Workshop on Metamodelling - Utilization in Software Engineering	20
+International Workshop on Middleware for Grid Computing	20
+International Workshop on Mobile Commerce and Services	20
+International Workshop on Modelling and Visualization of XML and Semantic Web Data	20
+International Workshop on Modelling in Software Engineering	20
+International Workshop on Modelling, Simulation, Verification and Validation of Enterprise Information Systems	20
+International Workshop on MultiAgent Based Simulation	20
+International Workshop on Multimedia Data Storage, Retrieval, Integration and Applications	20
+International Workshop on Multimedia Signal Processing	70
+International Workshop on Nonmonotonic Reasoning, Action and Change	20
+International Symposium on Parameterized and Exact Computation (was IWPEC pre 2004)	70
+International Workshop on Paraphrasing	70
+International Workshop on Parsing Technologies	70
+International Workshop on Pattern Recognition in Information Systems	20
+International Workshop on Post-Quantum Cryptography	20
+International Workshop on Quality of Information Systems	20
+International Workshop on Randomization and Computation	140
+International Workshop on Realising Evidence-based Software Engineering	20
+International Workshop on Requirements Engineering Visualization	70
+International Workshop on Requirements Engineering: Foundation for Software Quality	70
+International Workshop on Research Issues in Data Engineering	70
+International Workshop on Schema Languages for XML	20
+International Workshop on Security	70
+International Workshop on Security in Information Systems	20
+International Workshop on Security Protocols	20
+International Workshop on Soft Computing Applications	20
+International Workshop on Software and Compilers for Embedded Systems	140
+International Workshop on Software Engineering for High Performance Computing Applications	20
+International Workshop on Software Product Management	20
+International Workshop on Software Quality	20
+International Workshop on Software Technology for Augmented Reality Systems	20
+International Workshop on Temporal Databases	20
+International Workshop on the Algorithmic Foundations of Robotics	20
+International Workshop on the Sate of the Art in Cryptology and New Challenges Ahead	20
+International Workshop on the Web and Databases	20
+International Workshop on Ubiquitous Virtual Reality	20
+International Workshop on Visualization for Cyber Security	20
+International Workshop on Web and Wireless Geographical Information Systems	20
+International Workshop on Web Content Caching and Distribution	70
+International Workshop on Web Information Systems Modelling	20
+International Workshops on Enabling Technologies: Infrastructures for Collaborative Enterprises	70
+International Workshops on First-Order Theorem Proving	70
+International World Wide Web Conference	200
+International XML Database Symposium	20
+Internationale Tagung Wirtschaftsinformatik	20
+Internet Measurement Conference	140
+Internet Research	20
+Internet Society Conference	20
+Interoperating Geographic Information Systems	20
+INTUITION International Conference	20
+ISCA International Conference on Computer Applications in Industry and Engineering	20
+ISCA Tutorial and Research Workshop Automatic Speech Recognition	20
+Joint Australia and New Zealand Biennial Conference on Digital Image and Vision Computing	20
+Joint Conference on Information Sciences	20
+Joint Conference on New Methods in Language Processing and Computational Natural Language Learning	20
+Joint European Conference and Exhibition on Geographical Information Systems	20
+Joint International Conference on CyberGames and Interactive Entertainment	20
+Joint Modular Languages Conference	70
+Joint Working Conference on Secure Information Networks: Communications and Multimedia Security	20
+Joint workshop on Multimodal Interaction and Related Machine Learning Algorithms (now ICMI-MLMI)	70
+Journal of Computing Science in Colleges (Conference proceedings)	70
+KES International Symposium on Intelligent Decision Technologies	20
+Knowledge and Data Engineering Exchange Workshop	20
+Knowledge capture	140
+Knowledge Discovery and Data Mining in Biological Databases Meeting	20
+Knowledge Domain Visualisation	20
+Knowledge Representation Meets Databases	20
+Knowledge Visualization and Visual Thinking	20
+Kyoto International Conference on Computational Geometry and Graph Theory	20
+Language Descriptions, Tools and Applications	70
+Law via the Internet	20
+Lexical Semantics and Knowledge Representation	20
+Logic and Engineering of Natural Language Semantics	70
+Logic Programming and Automated Reasoning	140
+Logical Foundations of Computer Science	70
+Logics in Artificial Intelligence, European Conference	140
+Machine Translation Summit	70
+Machine Vision Applications	20
+MACIS: International Conference of Mathematical Aspects of Computer and Information Sciences	20
+Massively Parallel Processing Using Optional Interconnections	70
+Mathematical Methods in Computer Science	20
+Mathematics of Program Construction	70
+Mechatronics and Machine Vision in Practice	70
+Medical Image Computing and Computer-Assisted Intervention	140
+Medicine Meets Virtual Reality	70
+Mexican International Conference on Current Trends in Computer Science (was Mexican International Conference on Computer Science)	20
+Mining for Enhanced Web Search	20
+Mobility in Databases and Distributed Systems	20
+Modelling and Optimization: Theory and Applications	20
+MSRI Combinatorial Game Theory Research Workshop	20
+Multimedia Content Access: Algorithms and Systems (was Multimedia Content Analysis, Management and Retrieval)	20
+NAISO Congress on Autonomous Intelligent Systems	20
+National Conference of the American Association for Artificial Intelligence	200
+Natural Language Processing and Knowledge Engineering	20
+Network and OS Support for Digital A/V	140
+New Security Paradigms Workshop	20
+New Zealand Game Developers Conference	20
+North American Association for Computational Linguistics	140
+Onward Software Engineering	20
+Optimal Discrete Structures and Algorithms	20
+Optimization: Techniques And Applications	20
+Organisations and Society in Information Systems Workshop	20
+Pacific Asia Conference on Information Systems	140
+Pacific Asia Conference on Language, Information and Computation	70
+Pacific Asian Conference on Expert Systems	70
+Pacific Conference on Computer Graphics and Applications	140
+Pacific Rim International Conference on Artificial Intelligence	70
+Pacific Rim International Symposium on Dependable Computing	70
+International Conference on Principles of Practice in Multi-Agent Systems (prior to 2009 was Pacific Rim International Workshop on Multi-Agents)	70
+Pacific Rim Knowledge Acquisition Workshop	70
+Pacific Symposium on Biocomputing	20
+Pacific-Asia Conference on Knowledge Discovery and Data Mining	140
+Pacific-Asia Workshop on Electronic Commerce	20
+Pacific-Rim Conference on Multimedia	20
+Pacific-Rim Symposium on Image and Video Technology	70
+Pan Pacific Conference on Information Systems	20
+Pan-Sydney Area Workshop on Visual Information Processing	20
+Parallel and Distributed Information Systems	20
+Parallel Computing	20
+Parallel Problem Solving from Nature	140
+Participatory Design Conference	70
+Passive and Active Measurement Conference	70
+Pattern Languages of Programs	70
+Portuguese Conference on Artificial Intelligence	20
+Practical Application of Intelligent Agents and Multi-Agent Technology Conference	20
+Practical Aspects of Declarative Languages	70
+Practical Aspects of PROLOG/Constraint Technology	20
+Practice and Theory of Automated Timetabling	70
+Practices of Linking Aspect Technology and Evolution	20
+Prague Stringology Conference	20
+Principles and Practice of Parallel Programming	140
+International Conference on Managed Languages and Runtimes (was Principles and Practice of Programming in Java: PPPJ)	20
+Privacy in Statistical Databases	20
+Processing Declarative Knowledge, International Workshop	20
+Product Focused Software Process Improvement	70
+Program Visualization Workshop	20
+Programming Language Techniques for XML	20
+Real Time Systems Symposium	200
+Reflection, AOP and Meta-Data for Software Evolution	20
+Relationships and Associations in Object-Oriented Languages	20
+Richard Tapia Celebration of Diversity in Computing Conference	20
+Robot Soccer World Cup	70
+Robotics: Systems and Science	200
+RSA Conference	70
+Search: Workshop on Search, Sorting and Coding	20
+Semantic Web Visualisation	20
+Sensor Networks	20
+Service Oriented Computing: Consequences for Engineering Requirements	20
+SGAI International Conference on Artificial Intelligence	20
+SIAM Conference on Discrete Mathematics	20
+SIAM Conference on Geometric Design	20
+SIAM Conference on Optimization	20
+SIAM International Conference on Data Mining	140
+SIAM Workshop on Algorithms for Listing, Counting, and Enumeration	20
+SIGdial Workshop on Discourse and Dialog	20
+SIGIR workshop: Stylistic Analysis of Text For Information Access	20
+SIGOPT - International Conference on Optimization	20
+Simulation Technology and Training Conference	20
+Singapore International Conference on Intelligent Systems	70
+SKLOIS Conference on Information Security and Cryptology	70
+Smart Card Research and Advanced Application Conference	70
+Soft Computing in Computer Graphics, Imaging, and Vision	20
+Software Education Conference	20
+Software Performance Enhancement for Encryption and Decryption	20
+Software Quality Conference	20
+Software Technology and Engineering Practice Conference	70
+South African International Graph Theory Conference	20
+Southeastern International Conference on Combinatorics, Graph Theory, and Computing	20
+Spatial Information Research Centre Colloquium	20
+Spatial Information Science and Technology Conference	20
+Special-purpose Hardware for Attacking Cryptographic Systems	20
+SPIE Conference on Performance and Control of Network Systems	20
+SPIE Conference on Visual Data Exploration and Analysis	20
+SPIE International Conference on Multimedia Storage and Archiving Systems	20
+SPIE International Conference on Visual Communications and Image Processing	70
+Spring Conference on Computer Graphics	20
+State of the Art of Stream Ciphers	20
+Static Analysis Symposium	140
+Stochastic Local Search Algorithms	20
+Storage and Retrieval for Media Databases (was Storage and Retrieval for Image and Video Databases)	20
+Structural and Syntactical Pattern Recognition	140
+Summer Computer Simulation Conference	70
+Summer School on Modelling and Verification of Parallel Processes	20
+Symposia on VLSI Technology and Circuits	140
+Symposium Model Analysis and Simulation of Computer and Telecommunications Systems	140
+Symposium of Asian Association for Algorithms and Computation	20
+Symposium on Abstraction, Reformulation and Approximation	70
+ACM Symposium on Access Control Models and Technologies (previously ACM Workshop on Role-Based Access Control, RBAC, changed in 2000)	20
+Symposium on Advances in DB and Information Systems	70
+Symposium on Assessment of Quality S/W Dev Tools	20
+Symposium on Cellular Automata	20
+Symposium On Combinatorics, Algorithms, Probabilistic and Experimental Methodologies	20
+Symposium on Computational Geometry for Mechanics and Applications	20
+Symposium on Design, Analysis, and Simulation of Distributed Systems	20
+Symposium on Discrete Mathematics	20
+Symposium on Geometry Processing	70
+Symposium on Information Technology and Information Systems	20
+Symposium on Logical Formalizations of Commonsense Reasoning	70
+Symposium on Networked Systems, Design and Implementation	70
+Symposium on Parallelism in Algorithms and Architectures	140
+Symposium on Programs as Data Objects	20
+Symposium on Reliable Distributed Systems	140
+Symposium on Requirements Engineering for Information Security	20
+Symposium on Stabilization, Safety, and Security of Distributed Systems	20
+Symposium on Stochastic Algorithms, Foundations and Applications	20
+Systems Engineering / Test and Evaluation Conference	20
+TAI: Algorithmic Information Theory: Kolmogorov Complexity	20
+Tangible, Embedded, and Embodied Interaction	140
+Techniques and Problems in Graph Theory	20
+Technology of Object-Oriented Languages and Systems	70
+Testbeds and Research Infrastructures for the Development of Networks and Communities	70
+The Claude Shannon Workshop on Coding and Cryptography	20
+The Conference on visualization of information	20
+The International Conference on Semantic Web and Web Services	20
+The International Workshop on Algorithms and Graphs	20
+The Modelling and Simulation Society of Australia and New Zealand Meeting	20
+The organizational semiotics Conference	70
+The Theory and Application of Diagrams	70
+Theoretical Aspects of Rationality and Knowledge	140
+Theory of Cryptography Conference	140
+Tools and Algorithms for Construction and Analysis of Systems	140
+Topological and Geometric Graph Theory	20
+Trustworthy Interfaces for Passwords and Personal Information workshop	20
+ACM International Joint Conference on Pervasive and Ubiquitous Computing (PERVASIVE and UbiComp combined from 2013)	200
+Unconventional Models of Computation	70
+Universal Machines and Computations	70
+Usable Security Workshop	20
+Usenix Annual Technical Conference	140
+Conference on File and Storage Technologies	140
+Usenix Network and Distributed System Security Symposium	200
+Usenix Security Symposium	200
+Usenix Symposium on Operating Systems Design and Implementation	200
+USENIX Windows NT Symposium	20
+USENIX Workshop on Electronic Commerce	20
+USENIX Workshop on Hot Topics in Operating Systems	140
+USENIX/ACCURATE Electronic Voting Technology Workshop	20
+Verification, Model Checking and Abstract Interpretation	70
+Vision Interface	20
+VisMasters Design Modelling and Visualization Conference	20
+Visual Analytics	20
+Visual Information Communications International	20
+Visual Languages and Formal Methods	20
+Visualisation in Built Environment	20
+Visualization In Science and Education	20
+Visualization in Software Engineering	20
+Visualization in Software Product Lines Workshop	20
+Web Visualization	20
+Western Australian Workshop on Information Systems Research	20
+Winter Simulation Conference	70
+Workshop in Information Security Theory and Practices	20
+Workshop on Ad Hoc and Ubiquitous computing	20
+Workshop on Algorithm Engineering	70
+Workshop on Algorithm Engineering and Experiments	140
+Workshop on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems	20
+Workshop on Algorithmic Aspects of Advanced Programming Languages	20
+Workshop on Algorithms And Models For The Web Graph	20
+Workshop on Algorithms in Bioinformatics	70
+Workshop on Algorithms, Combinatorics, and Geometry	20
+Workshop on Analytic Algorithms and Combinatorics	70
+Workshop on Applications of Graph Theory in Wireless Ad hoc Networks and Sensor Networks	20
+Workshop on Approximation and Online Algorithms	70
+Workshop on Approximation and Randomization Algorithms in Communication Networks	20
+Workshop on Aspect Oriented Requirements Engineering and Architecture Design	20
+Workshop on Aspect-Oriented Modelling	20
+Workshop on Aspects, Components, and Patterns for Infrastructure Software	20
+Workshop on Assurance Cases for Security	20
+Workshop on Australasian Information Security, Data Mining and Web Intelligence, and Software Internationalisation	20
+Workshop on Combinatorial and Algorithmic Aspects of Networking	70
+Workshop on Component-Oriented Programming	20
+Workshop on Computational and Conformal Geometry	20
+Workshop on Computational Geometry and Applications	20
+Workshop on Computational Graph Theory and Combinatorics	20
+Workshop on Computational Optimization	20
+Workshop on Computer Architecture Education	20
+Workshop on Constraint Satisfaction for Planning and Scheduling	70
+Workshop on Cryptographic Hardware and Embedded Systems	140
+Workshop on Cryptography for Ad hoc Networks	20
+Workshop on Data Engineering for Wireless and Mobile Access	20
+Workshop on Database Technology for Virtual Enterprises	20
+Workshop on Declarative Programming in the Context of OO Languages	20
+Workshop on Distributed Data and Structures	20
+Workshop on Domain Specific Modelling	20
+Workshop on Duplicating, Deconstructing, and Debunking	20
+Workshop on Economics of Peer-to-Peer Systems	20
+Workshop on Elliptic Curve Cryptography	20
+Workshop on Fault Diagnosis and Tolerance in Cryptography	20
+Workshop on Formal Techniques for Java Programs	20
+Workshop On Java For High-Performance Computing	20
+Workshop on Job Scheduling Strategies for Parallel Processing	70
+Workshop on Localized Algorithms and Protocols for Wireless Sensor Networks	20
+Workshop on Logic and Learning	20
+Workshop on Logic, Language, Information and Computation	70
+Workshop on Massive Data Algorithmics	20
+Workshop on Mobile Computing Systems and Applications	20
+Workshop on Multiparadigm Programming with OO Languages	20
+Workshop on Nature Inspired Distributed Computing	20
+Workshop on Network-Related Data Management	20
+Workshop on New Technologies for Personalized Information Access	20
+Workshop on Object-Oriented Database Systems	20
+Workshop on Object-Oriented Development	20
+Workshop on On-Line Algorithms	20
+Workshop on Parallel and Distributed Debugging ACM/ONR	20
+Workshop on Parameterized Complexity	20
+Workshop on Physics and Computation	20
+Workshop on Power Aware Computing and Systems	70
+Workshop on Probabilistic Graph Theory	20
+Workshop on Programming Languages and Operating Systems	70
+Workshop on Quantum Information Processing	20
+Workshop on Real-Time Databases	20
+Workshop on Research Issues in Data Mining and Knowledge Discovery	20
+Workshop on Robust Shape Operations	20
+International Conference on Runtime Verification (was workshop pre 2010)	20
+Workshop on Scientific Knowledge, Information, and Computing	20
+Workshop on Security and Privacy in e-Commerce	20
+Workshop on Service Oriented Computing	20
+Workshop on the Arithmetic of Finite Fields	20
+Workshop on Theoretical and Algorithmic Aspects of Sensor and Ad-hoc Networks	20
+Workshop on Uncertainty in Geometric Computations	20
+Workshop on Web Usage Analysis	20
+World Computer Congress	20
+World Conference on the WWW and Internet	20
+World Congress in Computer Science, Computer Engineering, and Applied Computing	20
+World Congress on Expert Systems	70
+World Congress on Medical Informatics	70
+World Congress on Neural Networks	70
+Australasian Document Computing Symposium	20
+Artificial Intelligence and Applications Conference	20
+Australian Institute of Computer Ethics Conference	20
+International Conference on AI in Design	140
+International Conference on Artificial Intelligence in Education	140
+Algorithms and Experiments	70
+Australasian Language Techology Workshop	20
+American Medical Informatics Annual Fall Symposium	140
+Joint Conference on Declarative Programming APPIA-GULP-PRODE	20
+National Conference of the Australian Robot Association	20
+Australasian Remote Sensing Conference	20
+National Conference of The Australian Society for Operations Research	20
+Australian Joint Conference on Artificial Intelligence	20
+Australian Women in IT Conference	20
+IEEE/IFAC Joint Symposium on Intelligent Control	70
+International Command and Control Research and Technology Symposium	20
+Intelligent Multimedia, Computing and Communications Technologies and Applications of the Future	20
+IEEE Conference on Electronic Commerce Technology and Enterprise Computing, e_Commerce and e-Services	70
+Annual Conference on Computer Science Logic	70
+Design Automation Conf	140
+Digital Audio Effects Conference	70
+International Workshop on Document Analysis Systems	70
+Australian Pattern Recognition Society Conference	20
+Joint DICTA & IVCNZ	20
+IEEE International Workshop on Distributed Intelligent Simululation and Real-Time Applications	70
+Doing IT at Melbourne	20
+ACM Symposium on Document Engineering	70
+Deductive and Object-Oriented Databases	140
+Distributed Simulation Symposium	70
+International Conference on Decision Support Through Knowledge Management	20
+Information Systems &Technologies /SPIE Conference on Digital Video Compression Algorithms & Techniques	20
+Diagnostics	70
+IEEE Dynamic Spectrum Access Networks	70
+Engineering Applications of Artifical Intelligence	140
+International Conference on Theory and Practice of Digital Libraries (was ECDL until 2010)	70
+World Conference on Educational Multimedia, Hypermedia and Telecommunications	70
+Engineering Federated Information (Database) Systems	20
+Joint Meeting of the European Frequency and Time Forum and the Institute of Electrical and Electronics Engineers In	20
+European Grid Conference	70
+The Annual International Conference of the IEEE Engineering in Medicine and Biology Society	20
+Extended Semantic Web Conference (was European Semantic Web Conference)	140
+International Conference on Parallel Processing	140
+European Workshop on Learning Robots	70
+IEEE Symposium on Field Programmable Custom Computing Machines	140
+Frontiers in Education	70
+Formal Techniques in Real-Time and Fault Tolerant Systems	70
+IEEE Global Telecommunications Conference	70
+Human Language Technologies	70
+Symposium on High Performance Chips	140
+International Conference on High Performance Computing and Networking	70
+IADIS International Conference Applied Computing	20
+IEEE Industry Applications Society Annual Conference	20
+International Conference on Computer Communication and Networks	140
+IFAC Conference on Automation	20
+International Conference of Asian Digital Libraries	140
+International Conference on Artificial Neural Networks and Genetic Algorithms	20
+IEEE International Conference on Acoustics, Speech and Signal Processing	70
+International Conference on Computing and Information	70
+IEEE International Conference on Computer Languages	140
+International Conference on Communication Systems and Applications	20
+IEEE International Conference on Document Analysis and Recognition	140
+IEEE International Conference on Robotics and Automation	70
+International Computer Symposium Conference	100
+IEEE Conference on Information, Decision and Control	20
+International Database Conference (HK CS)	20
+IDF Congress	20
+IEEE Congress on Evolutionary Computation	70
+Intelligent Vehicles Conference	70
+IEEE International Conference on Multimedia Computing and Systems	140
+IEEE Transactions on Knowledge and Data Engineering	140
+Intenational Environmental Modelling and Software Society	20
+International Federation of Automatic Control World Congress	20
+IFIP WG 11.3 Working Conference on Data and Applications Security (also known as DBSEC)	70
+International Joint Conference on Computational Linguistics	70
+International Logic Programming Symposium	140
+IEEE Intell Network Workshop	70
+IEEE International Symposium on Intelleligence in Neural & Biological Systems	70
+IEEE International Conference on Computer Communications	200
+IEEE International Conference on Intelligent Processing Systems	20
+Information Resources Management Association International Conference	70
+IEEE International Solid-State Circuits Conference	140
+International Conference on IT Based Higher Education and Training	20
+IEEE International Workshop on Cluster Computing and the Grid	20
+ACM Conference on Digital Libraries	200
+IEEE LAN/MAN Workshop	20
+International Workshop on Logic Programming and Multi-Agents	70
+Language Resources and Evaluatin Conference	20
+Symposium on Frontiers of Massively Parallel Processing	140
+Australian Conference on Mathematics and Computers in Sport	20
+Joint IEEE Malaysia International Conference on Communications and IEEE International Workshop on Intelligent Signal Processing and Communication Systems	20
+International Symposium on Microarchitecture	140
+IEEE International Conference on Multimedia in Education	20
+Multiple Objective Decision Support System Conference	20
+Net Object Days (Includings MATES, ENASE etc.)	140
+Network Storage Symposium	140
+Open and Distance Learning Association of Australia Bienniel Forum	20
+Joint OECC, IOCC & ACOFT	20
+International Conference on Object Oriented Information Systems	20
+IEEE Conference on Open Architecture and Network Programming	140
+PACES & ICIL	20
+Post-Graduate ADFA Conference on Computer Science	20
+Joint AUPEC & EECON	20
+IFIP International Symposium on Computing Performance, Modelling, Measurement and Evaluation	140
+International Symposium on Physical Design	20
+Symposium on Programming Language Implementation and Logic Programming	70
+Performance Tools - International Conference on Model Techniques & Tools for CPE	140
+International Conference on Rewriting Techniques and Applications	140
+Unix Symposium on Operating Systems Design and Implementation	140
+International Conference on Software Engineering: Education and Practice	70
+International NZ Conference on Computer-Human Interaction	70
+Society for Information Technology and Teacher Education Conference	20
+IEEE International Symposium on Software Metrics	140
+Software Process Improvement and Capability Determination	20
+ACM Symposium on Software Reusability	140
+Theory and Applications of Knowledge MAnagement	20
+International Conference on Technology Education	20
+Unix Symposium on Internet Technologies	140
+University of Western Australia Computer Science Research Conference	20
+International Workshop on Artificial Intelligence and Statistics	70
+World Conference on Computers in Education	20
+World Congress on Systems Simulation	70
+International Computer Symposium Workshop	20
+World Multi-Conference on Systemics, Cybernetics and Informatics	20
+Informatics in Education (journal, congress, symposium, etc all under this name - can't rank)	20
+EMAS (merger of DALT, AOSE and PROMAS)	70
+Workshop on Coordination, Organizations, Institutions and Norms in agent Systems	70
+International Conference on Interactive Digital Storytelling (2008 merger of "ICVS International Conference on Virtual Storytelling" and "TIDSE Technology for Interactive Digital Storytelling")	20
+International Conference on Artificial Intelligence: Methodology, Systems, Applications	20
+International Conference on Information Quality	20
+International Conference on Image Analysis and Recognition	20
+European Conference on Software Architecture	140
+Symposium On Usable Privacy and Security	70
+International Conference on Virtual Rehabilitation	20
+International Conference on Weblogs and Social Media	20
+EURO AMERICAN CONFERENCE ON TELEMATICS AND INFORMATION SYSTEMS	20
+Practical Applications of Agents and Multiagent Systems	20
+International Conference on Advanced Communications and Computation	20
+Information Retrieval Facility Conference	20
+Asian Conference on Machine Learning	20
+ACM International Conference on Systems for Energy-Efficient Built Environments	140
+Innovations in Theoretical Computer Science	140
+Developments in eSystems Engineering	20
+International Conference on Smart homes and health Telematics	20
+The International Conference on Intelligent Environments	20
+International Conference on the Quality of Information and Communications Technology	20
+World Conference on Information Systems and Technologies	20
+IEEE International Conference on Data Science and Engineering	20
+International Work-conference on the Interplay between Natural and Artificial Computation	20
+IEEE Conference on Cognitive and Computational Aspects of Situation Management	20
+IEEE European Symposium on Security and Privacy	20
+Artificial Intelligence Applications and Innovations	20
+Iberian Conference on Information Systems and Technologies	20
+Asian Conference on Intelligent Information and Database Systems	20
+International Conference on Ambient Systems, Networks and Technologies	20
+CENTERIS - Conference on ENTERprise Information Systems	20
+Discovery Science	20
+European Dependable Computing Conference	20
+Engineering Interactive Computing Systems	20
+International Conference on Emerging Ubiquitous Systems and Pervasive Networks	20
+European Conference on Evolutionary Computation in Combinatorial Optimisation	20
+Formal Methods in Computer-Aided Design	20
+The International Conference on Future Networks and Communications	20
+HCist - International Conference on Health and Social Care Information Systems and Technologies	20
+International Conference on Computational Creativity	20
+International Conference on Digital Economy	20
+Conference on Innovation in Clouds, Internet and Networks	20
+The 3rd ACM International Conference on the Theory of Information Retrieval	20
+Intelligent Distributed Computing	20
+International Symposium on Networks, Computers and Communications	20
+International Conference on Management of Digital EcoSystems	20
+International Conference on Mobile Systems and Pervasive Computing	20
+International Conference on Principles of Security and Trust	20
+ProjMAN - International Conference on Project MANagement	20
+International Conference on Sustainable Energy Information Technology	20
+Semantics - International Conference on Semantic Systems	20
+International Conference: Sciences of Electronics, Technologies of information and Telecommunication	20
+The Symposium of Combinatorial Search	20
+The International Conference on Verification and Evaluation of Computer and Communication Systems	20
+International Teletraffic Congress	20
+Human-Agent Interaction	20
